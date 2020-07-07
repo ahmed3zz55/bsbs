@@ -1,7 +1,3 @@
-This is a new text file to test by Ahmed Ezz El-din
-dkslafjdksl;af wfnvdisoaf
-abcdefghijklmnopqrstuvwx
-yz;
-and i can write in arabic
-so i wil try to do my best
-ok
+Ahmed Ezz html css javascript 
+asp.net sql server
+git&github
